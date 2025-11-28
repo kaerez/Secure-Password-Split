@@ -24,7 +24,7 @@ While this application can be hosted on a static server (like GitHub Pages), for
 It supports two splitting modes:
 
 * **N-of-N (XOR):** All generated shares are required to reconstruct the secret.
-* **K-of-N (Threshold Cryptography):** Uses Shamir's Secret Sharing (over GF(256)). A subset ($K$) of the total shares ($N$) is required to reconstruct the secret.
+* **K-of-N (Threshold Cryptography):** Uses Shamir's Secret Sharing (over GF(256)). A subset (K) of the total shares (N) is required to reconstruct the secret.
 
 ---
 
@@ -60,7 +60,7 @@ It supports two splitting modes:
 ### To Split
 1.  Enter your secret.
 2.  Select **Split** or **Threshold Split**.
-3.  Adjust the sliders/inputs for the number of shares ($N$) and threshold ($K$).
+3.  Adjust the sliders/inputs for the number of shares (N) and threshold (K).
 4.  Click **SPLIT**.
 5.  Copy the resulting Hex strings.
 
