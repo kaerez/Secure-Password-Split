@@ -102,7 +102,7 @@ Each share is a hex string: the first byte is the share ID (`01`–`FF`, the x-c
 
 ## 📄 License
 
-**Author:** Erez Kalman - KSEC
+**Author:** [Erez Kalman - KSEC](https://www.kalman.co.il/)
 
 This project is licensed under a custom **Personal Non-Commercial Use License**:
 
